@@ -6,3 +6,5 @@ The x-axis of the plots indicates dates in the matplotlib.dates.date2num format.
 
 Another approach:
 Once pivot points had been identified, I could have started with the highest peaks/lowest troughs between a particular set of pivot points and then tried to find a line that has atmost 2 intersections (within the epsilon limit). But this would have been quite lengthy and complex. In contrast the first approach is relatively easy to implement and understand.
+
+The repository includes the code (Channels.py), input file (input.txt) and a requirements file (requirements.txt).
